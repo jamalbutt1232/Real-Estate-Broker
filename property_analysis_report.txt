@@ -1,0 +1,19 @@
+City 1: Karachi
+- Mean Price: $1,200,000
+- Rental Vacancy: 5%
+- Rental Yield: 7%
+- Background Information: Karachi, as a major economic hub in Pakistan, offers robust retail investment opportunities due to its high population density and significant consumer spending.
+
+City 2: Lahore
+- Mean Price: $1,100,000
+- Rental Vacancy: 6%
+- Rental Yield: 6.5%
+- Background Information: Lahore is known for its rich cultural heritage and dynamic economic activities, making it a favorable location for retail properties, especially in mixed-use developments.
+
+City 3: Islamabad
+- Mean Price: $1,300,000
+- Rental Vacancy: 4%
+- Rental Yield: 8%
+- Background Information: Islamabad, being the capital city, hosts a number of governmental and educational institutions, which contributes to a steady demand in retail sectors, particularly in high-traffic zones.
+
+These cities are typically located near major transport hubs, employment centers, and educational institutions. The following list highlights some of the top contenders for investment opportunities in the Pakistani retail market, supported by a growing trend towards mixed-use developments and an increasing influence of digital commerce.
